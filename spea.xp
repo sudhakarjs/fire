@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+    char c;
+    int isLower c vol, isUpper c Vol;
+
+    printf("Enter an alphabet ");
+    scanf("%c",&c);
+        printf("%c it is a consonant.", c);
+    else
+        printf("%c it is a vowal.", c);
+    return 0;
+}
